@@ -1,1 +1,1 @@
-# dino_game
+simple dino game
